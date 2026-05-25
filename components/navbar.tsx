@@ -46,7 +46,7 @@ const Navbar = () => {
           </Link>
 
           <Link
-            href="#reviews"
+            href="/#reviews"
             className="text-black hover:text-yellow-400 transition font-semibold"
           >
             Testimonials
