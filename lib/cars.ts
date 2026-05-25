@@ -46,7 +46,7 @@ export const cars = [
     fuel: "Petrol",
 
     // Appears in both filters
-    categories: ["Family", "SUVs"],
+    categories: ["Family", "Hatchbacks"],
   },
 
   {

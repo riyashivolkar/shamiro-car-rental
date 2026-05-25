@@ -32,14 +32,14 @@ const Navbar = () => {
           </Link>
 
           <Link
-            href="#services"
+            href="/#services"
             className="text-black hover:text-yellow-400 transition font-semibold"
           >
             Services
           </Link>
 
           <Link
-            href="#about"
+            href="/#about"
             className="text-black hover:text-yellow-400 transition font-semibold"
           >
             About
@@ -90,7 +90,7 @@ const Navbar = () => {
           </Link>
 
           <Link
-            href="#services"
+            href="/#services"
             onClick={() => setMenuOpen(false)}
             className="text-black font-semibold hover:text-yellow-500 transition"
           >
@@ -98,7 +98,7 @@ const Navbar = () => {
           </Link>
 
           <Link
-            href="#about"
+            href="/#about"
             onClick={() => setMenuOpen(false)}
             className="text-black font-semibold hover:text-yellow-500 transition"
           >
@@ -106,7 +106,7 @@ const Navbar = () => {
           </Link>
 
           <Link
-            href="#reviews"
+            href="/#reviews"
             onClick={() => setMenuOpen(false)}
             className="text-black font-semibold hover:text-yellow-500 transition"
           >
